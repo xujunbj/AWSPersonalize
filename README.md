@@ -7,9 +7,9 @@ You can use Amazon Personalize in a variety of scenarios, such as giving users r
 
 In this lab, we will walk you through on how to:
 
-## Initialize Amazon Personalize client
-## Prepare and import data
-## Create a solution
-## Evaluate a solution
-## Create a capmpaign
-## Get recommendations
+### Initialize Amazon Personalize client
+### Prepare and import data
+### Create a solution
+### Evaluate a solution
+### Create a capmpaign
+### Get recommendations
